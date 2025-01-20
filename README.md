@@ -1,5 +1,4 @@
-# 💫 About Me:
-👋 About Me
+# 👋 About Me
 
 Hi, I'm Julian De la Barrera Brandner, an engineer deeply passionate about deep learning, distributed systems, and software development.
 
