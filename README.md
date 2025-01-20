@@ -1,19 +1,20 @@
 # 💫 About Me:
 👋 About Me
-Hi, I'm Julian De la Barrera Brandner, an engineer and problem-solver with a passion for deep learning, distributed systems, and software development.
+
+Hi, I'm Julián De la Barrera Brandner—an engineer deeply passionate about deep learning, distributed systems, and software development.
 
 I’m currently based in Germany, where I focus on creating practical and scalable solutions for high-speed, safety-critical systems. With a strong background in electrical engineering, I’m fascinated by humanity's ability to control and command machines, bridging the gap between ideas and real-world applications.
 
 💻 I specialize in:
 - Deep learning and its real-world applications
 - Distributed systems for modular and efficient designs
-- Software development with Python and C++
+- Software development with Python, Javascript and C/C++
 - Data science and system optimization
 
 <br>🌍 Where I’m From
 - Chilean 🇨🇱 | Austrian 🇦🇹
 
-- 📩 Let’s connect and turn ideas into impact!
+📩 Let’s connect and turn ideas into impact!
 
 
 ## 🌐 Socials:
